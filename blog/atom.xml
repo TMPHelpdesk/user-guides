@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tmphelpdesk.github.io/user-guides/blog</id>
+    <title>Royal Australasian College of Surgeons - Training Management Platform Blog</title>
+    <updated>2023-09-20T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://tmphelpdesk.github.io/user-guides/blog"/>
+    <subtitle>Royal Australasian College of Surgeons - Training Management Platform Blog</subtitle>
+    <icon>https://tmphelpdesk.github.io/user-guides/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[New Look User Guides]]></title>
+        <id>https://tmphelpdesk.github.io/user-guides/blog/User Guides</id>
+        <link href="https://tmphelpdesk.github.io/user-guides/blog/User Guides"/>
+        <updated>2023-09-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New release notes platform]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the new look TMP User Guides for Trainees, Trainers and Supervisors. This is a more streamlined solution that should provide clarity an warm hugs</p>]]></content>
+        <author>
+            <name>Peter Lubulwa</name>
+            <uri>mailto:tmp@surgeons.org</uri>
+        </author>
+        <category label="TMP" term="TMP"/>
+        <category label="user-guides" term="user-guides"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TMP 4A - Release Notes]]></title>
+        <id>https://tmphelpdesk.github.io/user-guides/blog/tmp-4a-release-notes</id>
+        <link href="https://tmphelpdesk.github.io/user-guides/blog/tmp-4a-release-notes"/>
+        <updated>2023-05-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New features in release 4A.]]></summary>
+        <content type="html"><![CDATA[<p>TMP 4A release includes new features, enhancements bug fixes and security updates</p>
+<ul>
+<li>Case notes</li>
+<li>Trainee Requirements<!-- -->
+<ul>
+<li>Trainee - My Requirements page</li>
+<li>Training Requirements page layout</li>
+<li>Trainee Requirement workflows</li>
+</ul>
+</li>
+<li>New assessment forms and question types<!-- -->
+<ul>
+<li>Form layout updates</li>
+<li>Support for mandatory questions and autosave form data
+-Multi-page forms with navigation</li>
+</ul>
+</li>
+<li>Email Notifications<!-- -->
+<ul>
+<li>Supervisor/Trainer notification to mark submitted requirements</li>
+<li>Case note related notifications</li>
+</ul>
+</li>
+<li>TMP web app Security update – STC and Program types</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="role-based-updates">Role based updates<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-4a-release-notes#role-based-updates" class="hash-link" aria-label="Direct link to Role based updates" title="Direct link to Role based updates">​</a></h2>
+<p>Trainees will be able to:</p>
+<ul>
+<li>Add, view feedback and respond to Case notes</li>
+<li>View case notes from past rotations</li>
+<li>View Training Requirements based on due in current rotation, completed in past rotations, due in current SET and due later</li>
+<li>Trainees will be able to start a new requirement without any delays</li>
+</ul>
+<p>Supervisors will be able to:</p>
+<ul>
+<li>Add, view feedback and respond to all Case notes of a Trainee assigned to me in current rotation</li>
+</ul>
+<p>Trainers will be able to:</p>
+<ul>
+<li>Add, view feedback and respond to Case notes they are added to in current rotation</li>
+</ul>
+<p>TMEO will be able to:</p>
+<ul>
+<li>View all Trainee Case Notes for my specialty</li>
+<li>Close a Case Note, so that no further comment or reply can be added to it</li>
+<li>the ability to reopen a closed Case Note, so that discussion can continue when required </li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="case-notes">Case Notes<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-4a-release-notes#case-notes" class="hash-link" aria-label="Direct link to Case Notes" title="Direct link to Case Notes">​</a></h2>
+<p>To introduce Case Notes feature Dr. Bhavesh Patel has kindly provided the following</p>
+<ul>
+<li>We need to encourage the normality of seeking and giving feedback. Call it a discussion about training progress if you like.</li>
+<li>Case notes are to document observations, behaviours to support scoring of the formative assessment in "Excellent”, “Borderline" or "Not achieved" categories.</li>
+<li>The documentation needs to be transparent and allow the trainee to acknowledge that feedback is being given.</li>
+<li>Discussion may stat like those in the TIPS Course. eg. I saw... I thought... I wonder... Advocacy enquiry with good judgement.</li>
+<li>It’s not to have a running conversation, but just to document it, and perhaps come up with some learning goals if required.</li>
+<li>It can support progression up, across and down across various competencies in the formative assessment.</li>
+<li>It allows the supervisor (and the trainee) to see the behaviours and hopefully see some patterns.</li>
+<li>It may allow various issues to be highlighted in the institution, and with trainers, as the trainee can write contemporaneous details about their experience too.</li>
+</ul>
+<p><img loading="lazy" alt="4A-1-Case-Notes" src="https://tmphelpdesk.github.io/user-guides/assets/images/Images-4A-1-Case-notes-214f5f6f37769d28442b484dc9ae37e8.jpg" width="1392" height="1447" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="trainee-my-requirements">Trainee My Requirements<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-4a-release-notes#trainee-my-requirements" class="hash-link" aria-label="Direct link to Trainee My Requirements" title="Direct link to Trainee My Requirements">​</a></h2>
+<p>TMP Release 4A is going to introduce a completely redesigned Trainee My Requirements page based on Trainee feedback.</p>
+<p>My Requirements list is now divided based on when the Requirement is due</p>
+<ul>
+<li>Due by Current Rotation</li>
+<li>Due by Current SET</li>
+<li>Due Later</li>
+</ul>
+<p><img loading="lazy" alt="4A-2-Requirements" src="https://tmphelpdesk.github.io/user-guides/assets/images/Images-4A-2-Requirements-9eb9213cbc98df436d0503876d42809d.jpg" width="1465" height="1595" class="img_ev3q"></p>
+<p>The Trainee My Requirement page</p>
+<ul>
+<li>Presents Trainee Requirement’s Due date, Status and Outcome</li>
+<li>The new search functions will improve searching requirements using part of the requirement name. No need to add special characters for searching</li>
+<li>Allows navigating to Trainee Requirements from another rotation by using the <strong>Select another rotation</strong> button</li>
+</ul>
+<p><img loading="lazy" alt="4A-3-past-rotation" src="https://tmphelpdesk.github.io/user-guides/assets/images/Images-4A-3-past-rotation-811e410e5ba3117dbd460c16c346f7a8.jpg" width="1445" height="855" class="img_ev3q"></p>
+<ul>
+<li>Trainees will be able to view Requirements completed in a past rotation or requirements to complete in a Ready to Start rotation</li>
+<li>Trainees will be able to add a new requirement to the current rotation using <strong>Add new Requirement</strong> button</li>
+<li><strong>Overdue Requirements</strong> page presents only the requirements which are now marked as overdue</li>
+<li>Pages like My SET Dashboard, My Trainers and My Activities are discontinued based on user feedback and a new Trainee dashboard will be introduced in a future release.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="training-requirements-page">Training Requirements page<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-4a-release-notes#training-requirements-page" class="hash-link" aria-label="Direct link to Training Requirements page" title="Direct link to Training Requirements page">​</a></h2>
+<p>When a specific requirement is opened from My Requirements page the new <strong>Training Requirement</strong> details page now has only relevant information based on the requirement type.</p>
+<p>For example, for an Assessment or WBA the Training Requirement page now clearly shows the assessment workflow. Users will be able to follow the workflow steps to submit an assessment.</p>
+<p>Other relevant fields and info are available at the bottom of the page along with a redesigned <strong>Notes</strong> section, which allows for showing notes in a tabular format.</p>
+<p><img loading="lazy" alt="4A-4-training-requirement" src="https://tmphelpdesk.github.io/user-guides/assets/images/Images-4A-4-training-requirement-5c5f8e64e588431e1ae85c087bc3f2cf.jpg" width="1528" height="1325" class="img_ev3q"></p>
+<p>The <strong>Outcome</strong> field is now locked and updated using outcome related question in an assessment form. This is implemented based on feedback received from the users related to delay in updating the outcome field.</p>
+<p><img loading="lazy" alt="4a-5-training-requirement" src="https://tmphelpdesk.github.io/user-guides/assets/images/Images-4a-5-training-requirement-170b8cdd5a06a09d2f47886e061ce894.jpg" width="1536" height="1719" class="img_ev3q"></p>
+<p>Adding a secondary hospital and adding a Trainer is now intuitive and simple. Training Requirement page layout changes based on the Requirement type.</p>
+<p>Training Requirements – improvements</p>
+<ul>
+<li>We have improved the workflow when a new Requirement is added – the new requirement now automatically populates with all required data and will also load the associated form without any delays</li>
+<li>The existing comments field is now merged with the Notes field to allow addition of multiple comments and review the comments as a thread</li>
+<li>All new Training Requirements are now numbered as they are created making it easy to identify and work with</li>
+<li>Exempted Training Requirements are now marked as - Waived/Credit or RPL</li>
+<li>Add New requirements now opens the requirements page as created – this improves user experience by not having to search for the newly created requirement to start an assessment</li>
+</ul>
+<p><img loading="lazy" alt="4A-6-ad-hoc" src="https://tmphelpdesk.github.io/user-guides/assets/images/Images-4A-6-ad-hoc-854a06c12499b3f47f15cca5b6044a17.jpg" width="1422" height="1218" class="img_ev3q"></p>
+<p>##TMP Email Notifications 4A</p>
+<ul>
+<li>Supervisor/Trainer will be of notified when an Assessment has been Submitted by a Trainee.<!-- -->
+<ul>
+<li>Trainers and Supervisors will be able to mark the assessment as approved via a simple link in the notification email.</li>
+</ul>
+</li>
+<li>Trainee and Supervisor will receive Email notification with a list of outstanding requirements before end of Rotation</li>
+<li>When a Case note is added a notification will be sent to related stakeholders</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-assessment-forms-and-question-types">New assessment forms and question types<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-4a-release-notes#new-assessment-forms-and-question-types" class="hash-link" aria-label="Direct link to New assessment forms and question types" title="Direct link to New assessment forms and question types">​</a></h2>
+<p>New Assessment forms now support new question types to improve the overall assessment experience.</p>
+<p><img loading="lazy" alt="4A-7-surveyjs" src="https://tmphelpdesk.github.io/user-guides/assets/images/Images-4A-7-surveyjs-d51f16f8e8539753d3dc99e67108ba04.jpg" width="2302" height="1551" class="img_ev3q"></p>
+<ul>
+<li>New forms will support mandatory questions and autosave form data upon exit</li>
+<li>Multi-page forms with navigation</li>
+<li>Updated assessment forms will be available as new requirements are created</li>
+</ul>]]></content>
+        <author>
+            <name>Peter Lubulwa</name>
+            <uri>mailto:tmp@surgeons.org</uri>
+        </author>
+        <category label="TMP" term="TMP"/>
+        <category label="user-guides" term="user-guides"/>
+        <category label="4a" term="4a"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TMP 3C - Release Notes]]></title>
+        <id>https://tmphelpdesk.github.io/user-guides/blog/tmp-3c-release-notes</id>
+        <link href="https://tmphelpdesk.github.io/user-guides/blog/tmp-3c-release-notes"/>
+        <updated>2023-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New features in release 3C.]]></summary>
+        <content type="html"><![CDATA[<p><strong>TMP 3C</strong> release is introducing the following changes and updates</p>
+<ul>
+<li>Multi-source feedback</li>
+<li>Trainee Transcript report</li>
+<li>EPA-related WBA security update for Trainers</li>
+<li>Hospital Post Evaluation for Supervisor</li>
+<li>TMP Email notifications 1</li>
+<li>Portal improvements</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="multi-source-feedback">Multi-source feedback<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-3c-release-notes#multi-source-feedback" class="hash-link" aria-label="Direct link to Multi-source feedback" title="Direct link to Multi-source feedback">​</a></h3>
+<p>We have been working hard to introduce Multi-source feedback to TMP for a while. After a few detours, we are finally introducing Multi-source feedback (MSF) to TMP</p>
+<p>Trainee, Supervisor will be able to access Multi-source feedback (MSF) assessment from the Trainee Requirements page.
+A Multi-source Feedback page can be accessed here.
+<img loading="lazy" alt="r3a" src="https://tmphelpdesk.github.io/user-guides/assets/images/r3a-590192c79aa88a5eae4d084cfeeadc97.jpg" width="1729" height="1295" class="img_ev3q"></p>
+<p>Once opened the Multi-source feedback page presents with role-specific information and actions</p>
+<p><img loading="lazy" alt="r3b" src="https://tmphelpdesk.github.io/user-guides/assets/images/r3b-9d1334aa5cd04032c2a89785c3fd60db.jpg" width="1688" height="802" class="img_ev3q"></p>
+<p>A <strong>Trainee</strong> needs to</p>
+<ul>
+<li>Complete a self-assessment</li>
+<li>Add name, email address and role of participants. The participants will receive an email to assess the Trainee. No login is required to complete this task</li>
+<li>All data collected via the process is anonymised and the Trainee/Supervisor are not able to view which response has come from which participant</li>
+</ul>
+<p><img loading="lazy" alt="r3c" src="https://tmphelpdesk.github.io/user-guides/assets/images/r3c-7eaf93f65b35733036b6e3eae4970ff7.jpg" width="1731" height="998" class="img_ev3q"></p>
+<p>A <strong>supervisor</strong></p>
+<ul>
+<li>Can view the number of participants responded</li>
+<li>Areas of development and Areas of excellence as added by the participants</li>
+<li>The supervisor is able to moderate these comments if required or control visibility is deemed inappropriate.</li>
+</ul>
+<p><img loading="lazy" alt="r3d" src="https://tmphelpdesk.github.io/user-guides/assets/images/r3d-873721ea5444e184876b33523c45f14b.jpg" width="1730" height="1241" class="img_ev3q"></p>
+<p>Once reviewed the Supervisor can allow the Trainee to view the final report and both Supervisor and Trainee should take part in an MSF review meeting to complete the rest of the procedure</p>
+<p><img loading="lazy" alt="r3e" src="https://tmphelpdesk.github.io/user-guides/assets/images/r3e-72d81f2f118dd08044934085a2b3451e.jpg" width="1705" height="761" class="img_ev3q"></p>
+<p>During the <strong>Multi-source feedback review</strong> meeting</p>
+<ul>
+<li>The Trainee needs to add a reflection after reviewing the final report with their supervisor</li>
+<li>The Supervisor needs to add their comments about the Trainee and add an outcome of the assessment</li>
+</ul>
+<p><img loading="lazy" alt="r3f" src="https://tmphelpdesk.github.io/user-guides/assets/images/r3f-71e0704dbf16ec1a348e21f49c1a9248.jpg" width="1693" height="1238" class="img_ev3q"></p>
+<p>There are email notifications related to Multi-source feedback and other assessments listed in Email Notification related section below</p>
+<p>Once the process is completed the Multi-source feedback report collates all the information.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="trainee-transcript-report">Trainee Transcript report<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-3c-release-notes#trainee-transcript-report" class="hash-link" aria-label="Direct link to Trainee Transcript report" title="Direct link to Trainee Transcript report">​</a></h3>
+<p>TMP now will support creating Trainee Transcript report. At this point a Trainee can request a Transcript report using TMP helpdesk. In future release, the capability to access the report directly from TMP portal will be added.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="epa-related-wba-security-update-for-trainers">EPA-related WBA security update for Trainers<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-3c-release-notes#epa-related-wba-security-update-for-trainers" class="hash-link" aria-label="Direct link to EPA-related WBA security update for Trainers" title="Direct link to EPA-related WBA security update for Trainers">​</a></h3>
+<p>TMP release 3C also enables Trainers to review all WBAs connected to an EPA irrespective of whether they were the Trainer to that WBA or not.</p>
+<p>EPAs are now aligned with Multi-site Supervisor Trainer feature introduced in Release 3A. Trainee EPAs are now accessible once a Supervisor/Trainer has selected a hospital after login.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="hospital-post-evaluation-for-supervisor">Hospital Post Evaluation for Supervisor<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-3c-release-notes#hospital-post-evaluation-for-supervisor" class="hash-link" aria-label="Direct link to Hospital Post Evaluation for Supervisor" title="Direct link to Hospital Post Evaluation for Supervisor">​</a></h3>
+<p>There is now a process in order for a Training Manager/ Executive Officer to conduct an evaluation of a hopital post - this will now be generated through TMP.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tmp-email-notifications-3c">TMP Email Notifications 3C<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-3c-release-notes#tmp-email-notifications-3c" class="hash-link" aria-label="Direct link to TMP Email Notifications 3C" title="Direct link to TMP Email Notifications 3C">​</a></h3>
+<ul>
+<li>Requirement due date reminders - assessments</li>
+<li>Trainer assignment notification email - when a Trainee adds a Trainer - auto approval</li>
+<li>Trainer removal notification for Trainee and Trainer - when a Trainer is either removed or removes themselves from a requirement</li>
+<li>Trainee notification when an ad-hoc requirement is added to Trainee</li>
+<li>Trainee rotation reminder - based on the rotation start date</li>
+<li>Rotation outcome email - when rotation outcome is added</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tmp-email-notifications-3c---multi-source-feedback-specific">TMP Email Notifications 3C - Multi-source Feedback specific<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-3c-release-notes#tmp-email-notifications-3c---multi-source-feedback-specific" class="hash-link" aria-label="Direct link to TMP Email Notifications 3C - Multi-source Feedback specific" title="Direct link to TMP Email Notifications 3C - Multi-source Feedback specific">​</a></h3>
+<ul>
+<li>Reminder to Trainee to send MSF invitation</li>
+<li>Reminder to add response and self-assessment</li>
+<li>Trainee /Supervisor email notification to request discussion after receiving responses</li>
+<li>Supervisor approval for Trainee to review MSF report</li>
+<li>MSF Participant response reminder</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="portal-improvements">Portal improvements<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-3c-release-notes#portal-improvements" class="hash-link" aria-label="Direct link to Portal improvements" title="Direct link to Portal improvements">​</a></h3>
+<p><strong>Add new requirement</strong></p>
+<p>In this release, we are simplifying the Add New Requirement workflow on the portal. Selecting Add new Requirement on the Trainee Requirement page will simply open a list of Requirement types to choose from. Selecting a requirement type will add a new requirement of the selected type for the selected trainee.</p>
+<p><img loading="lazy" alt="r3g" src="https://tmphelpdesk.github.io/user-guides/assets/images/r3g-5ecd7b0e1c09f282db1a97e124c9ced0.jpg" width="2006" height="1084" class="img_ev3q"></p>
+<p><img loading="lazy" alt="r3h" src="https://tmphelpdesk.github.io/user-guides/assets/images/r3h-15744082d84b393ba1e3aeff6b53a58e.jpg" width="1442" height="1208" class="img_ev3q"></p>
+<p><strong>Other portal improvements</strong></p>
+<ul>
+<li>Skip the Submitted to Assessor status for assessors</li>
+<li>Introduce Trainee Column in Trainer Request table and auto-populate it for existing records</li>
+<li>Hide inactive records from view - portal and TMP app</li>
+</ul>]]></content>
+        <author>
+            <name>Peter Lubulwa</name>
+            <uri>mailto:tmp@surgeons.org</uri>
+        </author>
+        <category label="TMP" term="TMP"/>
+        <category label="user-guides" term="user-guides"/>
+        <category label="3C" term="3C"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TMP 3A - Release Notes]]></title>
+        <id>https://tmphelpdesk.github.io/user-guides/blog/tmp-3a-release-notes</id>
+        <link href="https://tmphelpdesk.github.io/user-guides/blog/tmp-3a-release-notes"/>
+        <updated>2022-12-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New features in release 3A.]]></summary>
+        <content type="html"><![CDATA[<p><strong>TMP 3A</strong> release is introducing the following changes and updates</p>
+<ul>
+<li>
+<p>Multi-site Supervisor/Trainer</p>
+</li>
+<li>
+<p>Ability to select Trainers from Secondary Hospital</p>
+</li>
+<li>
+<p>Portal Improvements</p>
+</li>
+<li>
+<p>Forms for 2023</p>
+</li>
+<li>
+<p>EPA UI Improvements</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="multi-site-supervisor--trainer">Multi-site Supervisor / Trainer<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-3a-release-notes#multi-site-supervisor--trainer" class="hash-link" aria-label="Direct link to Multi-site Supervisor / Trainer" title="Direct link to Multi-site Supervisor / Trainer">​</a></h2>
+<p>Support for Supervisor/ Trainer working in multiple hospitals. TMP will request the Supervisor or Trainer to select an associated hospital to present relevant trainee information.</p>
+<p><img loading="lazy" alt="3A-Image-1" src="https://tmphelpdesk.github.io/user-guides/assets/images/3A-Image-1-1c70e031bf8083a8256795233a425f9e.png" width="1315" height="495" class="img_ev3q"></p>
+<p>On selection of a hospital and role Trainee Requirements page will open with the list of connected Trainees from that hospital.</p>
+<ul>
+<li>The supervisor will either be connected to the Trainee as a Supervisor for the rotation in progress,</li>
+</ul>
+<p>or</p>
+<ul>
+<li>The Trainer is connected to the Trainee via Trainee Requirement</li>
+<li>The Change button will allow the Supervisor/ Trainer to change the hospital selected</li>
+</ul>
+<p><img loading="lazy" alt="3A-Image-2" src="https://tmphelpdesk.github.io/user-guides/assets/images/3A-Image-2-08e370f5a98e0dcd084376a2ac171ee5.png" width="1315" height="501" class="img_ev3q"></p>
+<p>Selecting a Trainee on this page opens the Trainee Requirements divided based when the Requirement is due.</p>
+<ul>
+<li>
+<p>Due by Current Rotation</p>
+</li>
+<li>
+<p>Due by Current SET</p>
+</li>
+<li>
+<p>Due Later</p>
+</li>
+</ul>
+<p>![3A-Image-END]
+The Trainee Requirement page above</p>
+<ul>
+<li>Presents Trainee Requirement’s Due date, Status and Outcome</li>
+<li>Clearly shows the Current Trainee information on top of the page</li>
+<li>Allows changing the currently selected Trainee by using the <strong>Other Trainee</strong> button</li>
+<li>Trainee Rotation Progress and Trainee Research is only available for Supervisors at the bottom of the page</li>
+<li>Trainee Research will be relocated and updated to a separate page in 2023</li>
+<li><strong>Overdue Tasks</strong> page will present only the Overdue Tasks a Trainer and Supervisor needs to completeOverdue Tasks replaces the current My Task page with in-progress tasks needs completion</li>
+</ul>
+<p>A Trainer will also be able to view all the Trainees in the selected hospital. Select and assign any <strong>Not Started</strong> Trainee Requirements they want to help the Trainee with.</p>
+<p>Trainers will be able to view and remove Trainer Requests from the Trainer Request page</p>
+<p>![Release-notes-view-trainees]</p>
+<p>Trainee EPA has not been updated with Multi-site Supervisor/ Trainer security changes. This is under development and will be released in coming months. Trainee EPAs will work as it currently does.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ability-to-select-trainers-from-secondary-hospital">Ability to select Trainers from Secondary Hospital<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-3a-release-notes#ability-to-select-trainers-from-secondary-hospital" class="hash-link" aria-label="Direct link to Ability to select Trainers from Secondary Hospital" title="Direct link to Ability to select Trainers from Secondary Hospital">​</a></h2>
+<p>![Secondary-hospital-1]</p>
+<p>A secondary Hospital can now be added to a Trainee Requirement.</p>
+<p>After the Trainee Requirement is saved, the Assign Trainer popup allows selecting a Trainer from the secondary hospital by changing the hospital selector</p>
+<p>![Secondary-hospital-2]</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="portal-improvements">Portal Improvements<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-3a-release-notes#portal-improvements" class="hash-link" aria-label="Direct link to Portal Improvements" title="Direct link to Portal Improvements">​</a></h2>
+<ul>
+<li>Trainee able to select Trainers from Secondary Hospital</li>
+<li>Automatically approve Trainer requests</li>
+<li>Enable Trainers to view all trainees in the hospital to collaborate with</li>
+<li>Enable Trainer to assign themselves to Not Started Trainee Requirements</li>
+<li>Hide the Assessment Form section if there is no form associated with the selected requirement</li>
+<li>Clear the Trainer field for Removed Trainer Requests and remove the Pending Trainer Requests view</li>
+<li>Hide the "Request Trainer/Assign Trainer" button on the Trainee Requirement page when Status is beyond "In-Progress"</li>
+<li>Rename "Trainee Progress" to "Trainee Requirement" in Portal For Supervisor and Trainer</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="forms-for-2023">Forms for 2023<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-3a-release-notes#forms-for-2023" class="hash-link" aria-label="Direct link to Forms for 2023" title="Direct link to Forms for 2023">​</a></h2>
+<p>The following forms are new or reworked in release 3A</p>
+<ul>
+<li>Paediatric Surgery - Mid SET assessment</li>
+<li>Cardiothoracic Surgery - DOPS Resternotomy</li>
+<li>Cardiothoracic Surgery - Trainee Evaluation rework</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="epa-ui-improvements">EPA UI improvements<a href="https://tmphelpdesk.github.io/user-guides/blog/tmp-3a-release-notes#epa-ui-improvements" class="hash-link" aria-label="Direct link to EPA UI improvements" title="Direct link to EPA UI improvements">​</a></h2>]]></content>
+        <author>
+            <name>Peter Lubulwa</name>
+            <uri>mailto:tmp@surgeons.org</uri>
+        </author>
+        <category label="TMP" term="TMP"/>
+        <category label="user-guides" term="user-guides"/>
+        <category label="3a" term="3a"/>
+    </entry>
+</feed>
