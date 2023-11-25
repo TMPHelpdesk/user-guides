@@ -4,7 +4,7 @@
         <title>Royal Australasian College of Surgeons - Training Management Platform Blog</title>
         <link>https://tmphelpdesk.github.io/user-guides/blog</link>
         <description>Royal Australasian College of Surgeons - Training Management Platform Blog</description>
-        <lastBuildDate>Wed, 20 Sep 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[New Look User Guides]]></title>
             <link>https://tmphelpdesk.github.io/user-guides/blog/User Guides</link>
             <guid>https://tmphelpdesk.github.io/user-guides/blog/User Guides</guid>
-            <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 27 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[New release notes platform]]></description>
             <content:encoded><![CDATA[<p>Welcome to the new look TMP User Guides for Trainees, Trainers and Supervisors. This is a more streamlined solution that should provide clarity an warm hugs</p>]]></content:encoded>
             <category>TMP</category>
